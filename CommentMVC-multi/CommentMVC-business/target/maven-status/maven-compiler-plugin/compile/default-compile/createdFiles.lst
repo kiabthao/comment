@@ -1,0 +1,10 @@
+formation\afpa\fr\exception\CommentNotFoundException.class
+formation\afpa\fr\exception\PostNotValidException.class
+formation\afpa\fr\exception\CommentNotValidException.class
+formation\afpa\fr\interfaceService\IPostService.class
+formation\afpa\fr\service\ServiceComment.class
+formation\afpa\fr\service\ServicePost.class
+formation\afpa\fr\exception\PostNotFoundException.class
+formation\afpa\fr\interfaceService\ICommentService.class
+formation\afpa\fr\exception\PostAlreadyExistsException.class
+formation\afpa\fr\exception\CommentAlreadyExistsException.class

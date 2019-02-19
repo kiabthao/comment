@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<link rel="stylesheet" type="text/css"
+	href="/resources/style/styles.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forum</title>
+</head>
+<body>
+
+	<div th:if="${comments.size() == 0}">
+		<h1 th:text="#{no_comments}" id="center"/>
+	</div>
+
+	<br />
+	<br />
+	<table id="table1" th:each="comment, iter : ${comments}">
+		<tr>
+			<th th:text="#{comments} + '&nbsp' + ${iter.index+1}" />
+		</tr>
+		<tr>
+			<td th:text="${comments.get(iter.index)}" />
+		</tr>
+		<br />
+		<br />
+	</table>
+	<br/>
+	<br/>
+	
+	<input type="submit" th:value="#{back}" onclick="window.location='/'"/>
+
+</body>
+</html>

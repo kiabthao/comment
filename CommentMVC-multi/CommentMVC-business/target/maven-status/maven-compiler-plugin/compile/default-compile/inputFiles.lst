@@ -1,0 +1,10 @@
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\service\ServicePost.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\CommentNotFoundException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\service\ServiceComment.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\CommentAlreadyExistsException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\PostAlreadyExistsException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\PostNotFoundException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\PostNotValidException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\interfaceService\ICommentService.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\exception\CommentNotValidException.java
+C:\Users\34011-65-01\Documents\workspace-sts-3.9.6.RELEASE\CommentMVC-multi\CommentMVC-business\src\main\java\formation\afpa\fr\interfaceService\IPostService.java

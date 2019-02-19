@@ -1,0 +1,4 @@
+formation\afpa\fr\entity\Comment.class
+formation\afpa\fr\entity\Post.class
+formation\afpa\fr\repository\CommentRepository.class
+formation\afpa\fr\repository\PostRepository.class

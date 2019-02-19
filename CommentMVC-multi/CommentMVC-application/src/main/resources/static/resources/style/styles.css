@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button
+	{
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#th1, h2, h3 {
+	font-family: "Stencil Std";
+	color: #cc66ff;
+	font-weight: bold;
+	font-size: 22px;
+	text-shadow: 1px 1px #ffffff;
+}
+
+table, th, td {
+	width: 80%;
+	table-layout: fixed;
+	float: center;
+}
+
+body {
+	background-image: url('/resources/img/waterfall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#table {
+	background-color: rgba(107, 195, 211, 0.9);
+	border-radius: 10px;
+	border-bottom-right-radius: 65px;
+	border-top-left-radius: 65px;
+	width: 60%;
+	font-size: 20px;
+}
+
+#table1 {
+	background-color: rgba(230, 230, 230, 0.9);
+	border-radius: 10px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	width: 33%;
+	font-size: 17px;
+}
+
+h1 {
+	color: white;
+	text-shadow: 2px 2px #000000;
+}
+
+#addpost_button {
+	position: sticky;
+	top: 0;
+	padding: 5px;
+	border: 2px solid;
+	float: right;
+}
+
+input[type=text] {
+	width: 20%;
+	color: black;
+}
+
+textarea {
+	width: 60%;
+	height: 150px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	background-color: #f8f8f8;
+	resize: none;
+}
+
+#center {
+	position: fixed;
+	top: 40%;
+	left: 50%;
+}
